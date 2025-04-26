@@ -1,0 +1,11 @@
+mkdir aichatbot
+cd aichatbot
+mkdir aichatbot/src
+mkdir aichatbot/tests
+mkdir aichatbot/src/aichatbot
+touch aichatbot/src/aichatbot/__init__.py
+touch aichatbot/src/aichatbot/cli.py
+touch aichatbot/src/aichatbot/chat.py
+touch aichatbot/src/aichatbot/config.py
+touch aichatbot/tests/__init__.py
+touch aichatbot/.env 
